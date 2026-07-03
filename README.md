@@ -5,7 +5,7 @@ I am a 3rd-year Computer Science student at the Technical University of Cluj-Nap
 ### 🛠 Tech Stack & Tools
 * **Languages:** Java, C/C++, Assembly x86.
 * **Systems & Low-level:** MIPS32 Assembly, VHDL, IPC, Systems Programming.
-* **Backend Development:** SQL, JDBC, REST APIs.
+* **Backend Development:** SQL, JDBC, REST APIs, Spring Boot.
 * **Core Concepts:** Data Structures & Algorithms, Object Oriented Programming(OOP)
 * **Build Tools & Versioning:** Maven, Gradle, GitLab/GitHub.
 * **Environments:** Linux, Docker (learning), Postman.
