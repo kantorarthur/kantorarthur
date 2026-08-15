@@ -1,6 +1,6 @@
 I'm Arthur
 
-A 3rd-year Computer Science student at the Technical University of Cluj-Napoca (TUCN), passionate about **Backend Engineering** and **Low-level Systems**. I love exploring how systems work "under the hood," from complex hardware architectures to efficient server simulations.
+A 3rd-year Computer Science student at the Technical University of Cluj-Napoca (TUCN).
 
 ### 🛠 Tech Stack & Tools
 * **Languages:** Java, C/C++, Assembly x86.
@@ -21,5 +21,3 @@ A 3rd-year Computer Science student at the Technical University of Cluj-Napoca (
 - Email -[📧kantorarthur222@gmail.com](mailto:kantorarthur222@gmail.com)
 - Phone Number - 0721 254 997
 
----
-*Currently focusing on developing robust and scalable backend solutions.*
