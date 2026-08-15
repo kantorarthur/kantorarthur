@@ -1,4 +1,4 @@
-I'm Arthur
+I'm Arthur,
 
 A 3rd-year Computer Science student at the Technical University of Cluj-Napoca (TUCN).
 
