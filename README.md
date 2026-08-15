@@ -18,6 +18,6 @@ A 3rd-year Computer Science student at the Technical University of Cluj-Napoca (
 
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/arthurkantor/)
-- Email -[kantorarthur222@gmail.com](mailto:kantorarthur222@gmail.com)
+- Email - [kantorarthur222@gmail.com](mailto:kantorarthur222@gmail.com)
 - Phone Number - 0721 254 997
 
