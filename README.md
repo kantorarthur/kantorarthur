@@ -9,7 +9,7 @@ A 3rd-year Computer Science student at the Technical University of Cluj-Napoca (
 •    **Critical Embedded Systems** (Military Defence, Automotive, Naval, Aerospace, among others): Where system crashes are not an option, making precise memory management and execution speed vital.
 
 ### Tech Stack & Tools
-* **Languages:** C++ (C++23 / 20 / 17), C, Assembly x86, VHDL, Java, MATLAB, SQL
+* **Languages:** C++ (C++17/20/23), C, Assembly x86, VHDL, Java, MATLAB, SQL
 * **Protocols & Standards** I2C, HTTP
 * **Core Concepts:** Multithreading, Operating Systems, Parallelism & Concurrency Control, Data Structures & Algorithms, Object Oriented Programming(OOP)
 * **Tools & Technologies:** Maven, Gradle, Git, Vivado, Visual Studio Code, IntelIJ, Linux, Visual Studio 2022
