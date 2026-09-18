@@ -1,18 +1,20 @@
 I'm Arthur,
 
-A 3rd-year Computer Science student at the Technical University of Cluj-Napoca (TUCN).
+a 3rd-year Computer Science student at the Technical University of Cluj-Napoca (TUCN).
 
-### I'm passionate about C/C++ software engineering in fields that require knowing exactly what happens with every line of code, such as:
+I'm currently based in Cluj-Napoca, Romania.
+
+### I have a deep interest in C++ and its usage in fields that require knowing exactly what happens with every line of code, such as:
 
 •    **Finance**: Where every nanosecond matters, making low-latency execution a must alongside strict memory management.
 
 •    **Critical Embedded Systems** (Military Defence, Automotive, Naval, Aerospace, among others): Where system crashes are not an option, making precise memory management and execution speed vital.
 
 ### Tech Stack & Tools
-* **Languages:** C++ (C++17/20/23), C, Assembly x86, VHDL, Java, MATLAB, SQL
+* **Languages:** C++ (11/14/17/20/23), C, Assembly x86, VHDL, Java, MATLAB, SQL
 * **Protocols & Standards** I2C, HTTP
-* **Core Concepts:** Multithreading, Operating Systems, Parallelism & Concurrency Control, Data Structures & Algorithms, Object Oriented Programming(OOP)
-* **Tools & Technologies:** Maven, Gradle, Git, Vivado, Visual Studio Code, IntelIJ, Linux, Visual Studio 2022
+* **Core Concepts:** Operating Systems, Computers Arhitecture, Parallelism & Concurrency Control, Data Structures & Algorithms, Object Oriented Programming(OOP), Multithreading.
+* **Tools & Technologies:** Git, GCC 16.1, Visual Studio Code, IntelIJ, Linux, Visual Studio 2022, Vivado, Maven, Gradle, 
 
 
 ### Recent Projects
