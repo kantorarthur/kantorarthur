@@ -11,10 +11,13 @@ I'm currently based in **Cluj-Napoca, Romania**.
 •    **Critical Embedded Systems** (Military Defence, Automotive, Naval, Aerospace, among others): Where system crashes are not an option, making precise memory management and execution speed vital.
 
 ### Tech Stack & Tools
-* **Languages:** C++(11/14/17/20/23/26), C, VHDL, Assembly x86, SQL, Java, Python
+* **Languages:** My primary focus is on C++(11/14/17/20/23/26) and C, complemented by Assembly x86 and VHDL
+when needed. I also possess elementary to intermediate-ish proficiency in SQL, Java and Python that I mostly gained
+throught the university.
 * **Frameworks & Databases:** CMake, C++ Boost Library, PostgresSQL
 * **Relevant Concepts:** Cache Optimization Techniques, Lock-Free Multithreading, Low Latency Design Patterns
-* **Protocols & Standards** UDP, TCP/IP, HTTP, REST APIs, I2C
+* **Network Protocols:** UDP, TCP/IP, HTTP, REST APIs
+* **Specific Trading Protocols:** FIX, OUCH, ITCH, PITCH, SBE
 * **Tools & Technologies:** CMake, GCC 16.1, Neovim, Git, Linux, Vivado, VS Code, IntelliJ
 
 
@@ -28,6 +31,6 @@ I'm currently based in **Cluj-Napoca, Romania**.
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/arthurkantor/)
 - Email - [kantorarthur222@gmail.com](mailto:kantorarthur222@gmail.com)
-- [Resume](https://github.com/user-attachments/files/33017062/Arthur_Kantor_resume.pdf)
+- [Resume](https://github.com/user-attachments/files/33030582/Arthur_Kantor_resume.pdf)
 - Phone Number: +40 721 254 997
 
