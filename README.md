@@ -1,6 +1,6 @@
 I'm Arthur,
 
-a 3rd-year Computer Science student at the **Technical University of Cluj-Napoca** (TUCN).
+a 20 year old 3rd year Computer Science student at the **Technical University of Cluj-Napoca** (TUCN).
 
 I'm currently based in **Cluj-Napoca, Romania**.
 
@@ -12,10 +12,10 @@ I'm currently based in **Cluj-Napoca, Romania**.
 
 ### Tech Stack & Tools
 * **Languages:** C++(11/14/17/20/23/26), C, VHDL, Assembly x86, MATLAB, NoSQL, SQL, Java, Python
-* **Frameworks & Databases** C++ Qt, CMake, C++ Boost Library, MongoDB, PostgresSQL
+* **Frameworks & Databases** C++ Qt, CMake, C++ Boost Library, MongoDB
 * **Relevant Concepts:** Cache Optimizations Techniques, Lock-Free Multithreading, Low Latency Design Patterns
-* **Protocols & Standards** REST API, TCP/IP, HTTP, UDP, I2C
-* **Tools & Technologies:** CMake, GCC 16.1, Neovim, Git, Linux, VS Code, IntelliJ, Maven
+* **Protocols & Standards** UDP, TCP/IP, HTTP, REST APIs, I2C
+* **Tools & Technologies:** CMake, GCC 16.1, Neovim, Git, Linux, Vivado, VS Code, IntelliJ, Maven
 
 
 ### Recent Projects
@@ -28,6 +28,6 @@ I'm currently based in **Cluj-Napoca, Romania**.
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/arthurkantor/)
 - Email - [kantorarthur222@gmail.com](mailto:kantorarthur222@gmail.com)
-- [Resume](https://github.com/user-attachments/files/33006846/Arthur_Kantor_resume.pdf)
+- [Resume](https://github.com/user-attachments/files/33016022/Arthur_Kantor_resume.pdf)
 - Phone Number: +40 721 254 997
 
