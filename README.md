@@ -13,7 +13,7 @@ I'm currently based in **Cluj-Napoca, Romania**.
 ### Tech Stack & Tools
 * **Languages:** My primary focus is on C++(11/14/17/20/23/26) and C, complemented by Assembly x86 and VHDL
 when needed. I also possess elementary to intermediate-ish proficiency in SQL, Java and Python that I mostly gained
-throught the university.
+throughout the university.
 * **Frameworks & Databases:** CMake, C++ Boost Library, PostgresSQL
 * **Relevant Concepts:** Cache Optimization Techniques, Lock-Free Multithreading, Low Latency Design Patterns
 * **Network Protocols:** UDP, TCP/IP, HTTP, REST APIs
