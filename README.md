@@ -1,10 +1,9 @@
 I'm Arthur,
 
-a 20 year old 3rd year Computer Science student at the **Technical University of Cluj-Napoca** (TUCN).
-
+a 20 year old **third year student** pursuing a **bachelor's degree in Computer Science at the Technical University of Cluj-Napoca** (TUCN).<br>
 I'm currently based in **Cluj-Napoca, Romania**.
 
-### I'm highly interested in C++ and its usage in fields where you first need to know what your machine does before knowing what your code does, such as:
+### I'm highly interested in C++ and its applications in fields where you first need to know what your machine does before knowing what your code does, such as:
 
 •    **High-Frequency Trading**: Where every nanosecond matters, making low-latency execution a must alongside strict memory management.
 
@@ -12,12 +11,12 @@ I'm currently based in **Cluj-Napoca, Romania**.
 
 ### Tech Stack & Tools
 * **Languages:** My primary focus is on C++(11/14/17/20/23/26) and C, complemented by Assembly x86 and VHDL
-when needed. I also possess elementary to intermediate-ish proficiency in SQL, Java and Python that I mostly gained
+when appropiate for a project. I also possess elementary to intermediate proficiency in SQL, Java and Python that I mostly gained
 throughout the university.
 * **Frameworks & Databases:** CMake, C++ Boost Library, PostgresSQL
 * **Relevant Concepts:** Cache Optimization Techniques, Lock-Free Multithreading, Low Latency Design Patterns
 * **Network Protocols:** UDP, TCP/IP, HTTP, REST APIs
-* **Specific Trading Protocols:** FIX, OUCH, ITCH, PITCH, SBE
+* **Trading Protocols:** FIX, OUCH, ITCH, PITCH, SBE
 * **Tools & Technologies:** CMake, GCC 16.1, Neovim, Git, Linux, Vivado, VS Code, IntelliJ
 
 
@@ -31,6 +30,6 @@ throughout the university.
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/arthurkantor/)
 - Email - [kantorarthur222@gmail.com](mailto:kantorarthur222@gmail.com)
-- [Resume](https://github.com/user-attachments/files/33030582/Arthur_Kantor_resume.pdf)
+- [Resume](https://github.com/user-attachments/files/33078389/Arthur_Kantor_resume.pdf)
 - Phone Number: +40 721 254 997
 
