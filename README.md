@@ -17,7 +17,7 @@ throughout the university.
 
 
 ### Recent Projects
-* [**Implied Volatility Estimator**](https://github.com/kantorarthur/Monte_Carlo_Implied_Volatility_Estimator): Implemented a C++ program that estimates what implied volatility factor was used on a European call contract in about 0.037 seconds. The program estimates the volatility factor using the "Monte Carlo Simulation" that also uses the newly added C++26 feature "std::philox_engine". The idea to implement this program in C++ came to my mind while taking notes on this [**personal study about the "Black-Scholes" model and its implementation using the Monte Carlo Simulation**](https://github.com/kantorarthur/Monte_Carlo_Black_Scholes_Study_Papers).
+* [**Implied Volatility Estimator**](https://github.com/kantorarthur/Monte_Carlo_Implied_Volatility_Estimator): Implemented a C++ program that estimates what implied volatility factor was used on a European call contract in about 0.037 seconds while also running millions of simulations per contract. The program estimates the volatility factor using the "Monte Carlo Simulation" that also uses the newly added C++26 feature "std::philox_engine". The idea to implement this program in C++ came to my mind while taking notes on this [**personal study about the "Black-Scholes" model and its implementation using the Monte Carlo Simulation**](https://github.com/kantorarthur/Monte_Carlo_Black_Scholes_Study_Papers).
   
 * [**MIPS32 Processor**](https://github.com/kantorarthur/MIPS32_CPU): Implemented a fully functional 32-bit Processor using the MIPS32 architecture in VHDL. The project implements: the main data path and control logic found in a processor; instruction set; a demonstration program using the implemented instruction set.
 * [**Queue Management Simulation**](https://github.com/kantorarthur/clients-queue-simulation-application): A multi-threaded Java application simulating a client-server queueing system. It features configurable distribution strategies (Shortest Queue/Time), concurrent processing, and detailed performance logging.
@@ -28,6 +28,6 @@ throughout the university.
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/arthurkantor/)
 - Email - [kantorarthur222@gmail.com](mailto:kantorarthur222@gmail.com)
-- [Resume](https://github.com/user-attachments/files/33293516/Arthur_Kantor_resume.pdf)
+- [Resume](https://github.com/user-attachments/files/33293607/Arthur_Kantor_resume.pdf)
 - Phone Number: +40 721 254 997
 
