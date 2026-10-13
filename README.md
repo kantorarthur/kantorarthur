@@ -10,7 +10,6 @@ I'm highly interested in C++ and its application in fields where you first need 
 when appropiate for a project. I also possess elementary to intermediate proficiency in SQL, Java and Python that I mostly gained
 throughout the university.
 * **Frameworks & Databases:** CMake, C++ Boost Library, PostgreSQL
-* **Relevant Concepts:** Cache Optimization Techniques, Lock-Free Multithreading, Low Latency Design Patterns
 * **Network Protocols:** UDP, TCP/IP, HTTP, REST APIs
 * **Trading Protocols:** FIX, OUCH, ITCH, PITCH, SBE
 * **Tools & Technologies:** CMake, GCC 16.1, Neovim, Git, Linux, Vivado, VS Code, IntelliJ
@@ -28,6 +27,6 @@ throughout the university.
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/arthurkantor/)
 - Email - [kantorarthur222@gmail.com](mailto:kantorarthur222@gmail.com)
-- [Resume](https://github.com/user-attachments/files/33293607/Arthur_Kantor_resume.pdf)
+- [Resume](https://github.com/user-attachments/files/33363349/Arthur_Kantor_resume.pdf)
 - Phone Number: +40 721 254 997
 
