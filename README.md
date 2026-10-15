@@ -6,11 +6,11 @@ I'm currently based in **Cluj-Napoca, Romania**.
 I'm highly interested in C++ and its application in fields where you first need to know what your machine does before knowing what your code does, such as High Frequency Trading and Critical Embedded Systems.
 
 ### Tech Stack & Tools
-* **Languages:** My primary focus is on C++ (11/14/17/20/23/26) and C, complemented by Assembly x86 and VHDL when appropriate for a project. I also possess elementary-to-intermediate proficiency in SQL, Java, and Python that I mostly gained throughout the university.
-* **Frameworks & Databases:** CMake, C++ Boost Library, PostgreSQL
+* **Languages:** My primary focus is on C++ (11/14/17/20/23/26) and C, complemented by x86 Assembly and VHDL
+when appropriate for a project. My skill set extends to SQL, Java and Python
 * **Network Protocols:** UDP, TCP/IP, HTTP, REST APIs
-* **Trading Protocols:** FIX, OUCH, ITCH, PITCH, SBE
 * **Tools & Technologies:** CMake, GCC 16.1, Neovim, Git, Linux, Vivado, VS Code, IntelliJ
+* **Spoken Languages:** English and Romanian
 
 
 ### Recent Projects
@@ -25,6 +25,6 @@ I'm highly interested in C++ and its application in fields where you first need 
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/arthurkantor/)
 - Email - [kantorarthur222@gmail.com](mailto:kantorarthur222@gmail.com)
-- [Resume](https://github.com/user-attachments/files/33492858/Arthur_Kantor_resume.pdf)
+- [Resume](https://github.com/user-attachments/files/33517348/Arthur_Kantor_resume.pdf)
 - Phone Number: +40 721 254 997
 
