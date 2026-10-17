@@ -12,6 +12,8 @@ when appropriate for a project. My skill set extends to SQL, Java and Python
 * **Tools & Technologies:** CMake, GCC 16.1, Neovim, Git, Linux, Vivado, VS Code, IntelliJ
 * **Spoken Languages:** English and Romanian
 
+[LeetCode Profile](https://leetcode.com/u/arthurito06/) <br>
+[HackerRank Profile](https://www.hackerrank.com/profile/kantorarthur222)
 
 ### Recent Projects
 * [**Implied Volatility Estimator**](https://github.com/kantorarthur/Monte_Carlo_Implied_Volatility_Estimator): Implemented a C++ program that estimates the implied volatility of a European call option in about 0.037 seconds while also running millions of simulations per contract. The program estimates the volatility factor using the "Monte Carlo Simulation" that also uses the newly added C++26 feature "std::philox_engine". The idea to implement this program in C++ came to my mind while taking notes on this [**personal study about the "Black-Scholes" model and its implementation using the Monte Carlo Simulation**](https://github.com/kantorarthur/Monte_Carlo_Black_Scholes_Study_Papers).
