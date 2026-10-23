@@ -25,6 +25,6 @@ when appropriate for a project. My skill set extends to SQL, Java and Python
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/arthurkantor/)
 - Email - [kantorarthur222@gmail.com](mailto:kantorarthur222@gmail.com)
-- [Resume](https://github.com/user-attachments/files/33730416/Arthur_Kantor_resume.pdf)
+- [Resume](https://github.com/user-attachments/files/33888474/Arthur_Kantor_resume.pdf)
 - Phone Number: +40 721 254 997
 
