@@ -9,11 +9,15 @@ I'm highly interested in C++ and its application in fields where you first need 
 * **Languages:** My primary focus is on C++ (11/14/17/20/23/26) and C, complemented by x86 Assembly and VHDL
 when appropriate for a project. My skill set extends to SQL, Java and Python
 * **Network Protocols:** UDP, TCP/IP, HTTP, REST APIs
-* **Tools & Technologies:** CMake, GCC 16.1, Neovim, Git, Linux, Vivado, VS Code, IntelliJ
+* **Tools & Technologies:** CMake, Google Test, Maven, Spring Boot, Anthropic API, Kernel.sh API, GCC 16.1, Claude Code,
+Render, Neovim, Git/GitHub, Linux, Vivado, VS Code, IntelliJ
 * **Spoken Languages:** English and Romanian
 
 
 ### Recent Projects
+* [**Amazon Developer Hackaton - Six Agentic AI Workflow**](https://github.com/kantorarthur/alexa_plus_errand_crew_six_agentic_AI_workflow): The MCP server (FastMCP, MCP over Streamable HTTP) uses a six agentic AI workflow: a planner (Claude Sonnet 5.5) turns the spoken request into a plan, and four worker agents (Claude Haiku 5.5) browse Evomag, Altex, MediaGalaxy
+and Vexio concurrently using Python’s asyncio, each in its own cloud browser. The judge model it's mainly used to word the results. The cost per search is 0.01$.
+
 * [**Implied Volatility Estimator**](https://github.com/kantorarthur/Monte_Carlo_Implied_Volatility_Estimator): Implemented a C++ program that estimates the implied volatility of a European call option in about 0.037 seconds while also running millions of simulations per contract. The program estimates the volatility factor using the "Monte Carlo Simulation" that also uses the newly added C++26 feature "std::philox_engine". The idea to implement this program in C++ came to my mind while taking notes on this [**personal study about the "Black-Scholes" model and its implementation using the Monte Carlo Simulation**](https://github.com/kantorarthur/Monte_Carlo_Black_Scholes_Study_Papers).
   
 * [**MIPS32 Processor**](https://github.com/kantorarthur/MIPS32_CPU): Implemented a fully functional 32-bit Processor using the MIPS32 architecture in VHDL. The project implements: the main data path and control logic found in a processor; instruction set; a demonstration program using the implemented instruction set.
