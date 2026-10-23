@@ -29,6 +29,6 @@ and Vexio concurrently using Python’s asyncio, each in its own cloud browser. 
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/arthurkantor/)
 - Email - [kantorarthur222@gmail.com](mailto:kantorarthur222@gmail.com)
-- [Resume](https://github.com/user-attachments/files/33888474/Arthur_Kantor_resume.pdf)
+- [Resume](https://github.com/user-attachments/files/33888693/Arthur_Kantor_resume.pdf)
 - Phone Number: +40 721 254 997
 
