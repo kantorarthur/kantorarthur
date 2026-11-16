@@ -9,7 +9,7 @@ I'm currently based in **Cluj-Napoca, Romania**.
 I'm highly interested in C++ and its application in fields where you first need to know what your machine does before knowing what your code does, such as High Frequency Trading and Critical Embedded Systems.
 
 ### Tech Stack & Tools
-* **Languages:** : C++ (11/14/17/20/23/26) (primary focus), C, x86 Assembly, VHDL, SQL, Java, Python
+* **Languages:** C++ (11/14/17/20/23/26) (primary focus), C, x86 Assembly, VHDL, SQL, Java, Python
 * **Network Protocols:** UDP, TCP/IP, HTTP, REST APIs
 * **Tools & Technologies:** CMake, Google Test, Redis, Docker, Anthropic API, Kernel.sh API, GCC 16.1, Claude Code, Render,
 Neovim, Git/GitHub, Linux, Vivado, VS Code, IntelliJ
