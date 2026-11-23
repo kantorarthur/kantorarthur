@@ -2,7 +2,7 @@
 
 **Check out my resume:** [Resume](https://github.com/user-attachments/files/35212341/Arthur_Kantor_resume.pdf)
 
-## About me
+## About
 I'm Arthur,
 
 a 20 year old **third year student** pursuing a **bachelor's degree in Computer Science at the Technical University of Cluj-Napoca** (TUCN).<br>
