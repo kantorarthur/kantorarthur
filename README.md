@@ -1,6 +1,6 @@
 **If you love philosophy or want to become better than you were yesterday, check out my site:** https://ubermenschs.com </br> 
 
-**Check out my resume:** [Resume](https://github.com/user-attachments/files/35212341/Arthur_Kantor_resume.pdf)
+**Check out my resume:** [Resume](https://github.com/user-attachments/files/35515885/Arthur_Kantor_resume.pdf)
 
 ## About
 I'm Arthur,
@@ -20,6 +20,15 @@ Neovim, Git/GitHub, Linux, Vivado, VS Code, IntelliJ
 
 ### Recent Projects
 * [**Implied Volatility Estimator**](https://github.com/kantorarthur/Monte_Carlo_Implied_Volatility_Estimator): Implemented a C++ program that estimates the implied volatility of a European call option in about 0.037 seconds while also running millions of simulations per contract. The program estimates the volatility factor using the "Monte Carlo Simulation" that also uses the newly added C++26 feature "std::philox_engine". The idea to implement this program in C++ came to my mind while taking notes on this [**personal study about the "Black-Scholes" model and its implementation using the Monte Carlo Simulation**](https://github.com/kantorarthur/Monte_Carlo_Black_Scholes_Study_Papers).
+
+* [**The Rime of the Ancient Mariner - Game**](https://github.com/kantorarthur/rime_of_the_ancient_mariner_game): **I really loved Iron Maiden's song "Rime of the Ancient Mariner" (Powerslave, 1984). After listening to it, I read Samuel Taylor Coleridge's poem that the song is based on, and then I decided to turn the story into a game for my university graphics project.** </br>
+C++17 and OpenGL 4.1 core, with shaders written in GLSL
+GLFW for the window and input, GLEW to load OpenGL, GLM for the mathematics
+CMake for the build
+tinyobjloader for OBJ models, stb_image for textures, stb_easy_font for on-screen text
+Blender (Python scripts) to build the skinned characters and export their animations
+ImageMagick and Python to convert textures and skyboxes and to generate some models
+
 
 * [**ubermenschs.com**](https://ubermenschs.com): **I love philosophy, but found no website to study it that also keeps me motivated, so I built the one I wanted** </br>
 Full-stack PWA for daily philosophical practice: C++20 REST API (Crow) on Redis (AOF + replica), React + TypeScript frontend, a scheduler thread sending Web Push reminders and a Redis rate limiter.</br> **Latency** (1,000 HTTPS requests, Romania to Frankfurt, new TLS connection each): p50/p95/p99 = 93/117/135 ms; time to first byte on an open connection: 60 ms (p50).
@@ -41,6 +50,6 @@ and Vexio concurrently using Python’s asyncio, each in its own cloud browser. 
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/arthurkantor/)
 - Email - [kantorarthur222@gmail.com](mailto:kantorarthur222@gmail.com)
-- [Resume](https://github.com/user-attachments/files/35212341/Arthur_Kantor_resume.pdf)
+- [Resume](https://github.com/user-attachments/files/35515885/Arthur_Kantor_resume.pdf)
 - Phone Number: +40 721 254 997
 
